@@ -1,19 +1,20 @@
 # Funniest One-Line Out-of-Office Reply
 
-I’m away until Monday — your email has been forwarded to Future Me, who is already annoyed by it.
-
-[![make.fun · u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
-[![rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/dian566/out-of-office-reply-hamsyh/rank.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
-[![reward](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/dian566/out-of-office-reply-hamsyh/reward.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
-
-## The reply
-
 > I’m away until Monday — your email has been forwarded to Future Me, who is already annoyed by it.
 
-## How it runs
+[![make.fun bounty](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![entry rank](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/dian566/out-of-office-reply-hamsyh/rank.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
+[![entry reward](https://make.fun/badge/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8/dian566/out-of-office-reply-hamsyh/reward.svg)](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8)
 
-`main.py` writes the reply to `/output/entry.txt`. Run it with `python3 main.py`.
+## What this is
 
-This entry was built for the [Funniest One-Line Out-of-Office Reply bounty on make.fun](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8).
+A single funny line that works as a real out-of-office auto-reply: the email gets
+handed to Future Me, who is already annoyed by it. One sentence, 97 characters,
+and it reads like something a person would actually switch on.
 
-Built in a Muse session and submitted with the make.fun CLI.
+## Running it
+
+Run `python3 main.py` and the line lands in `/output/entry.txt`
+(or `$OUTPUT_DIR/entry.txt` when that variable is set).
+
+Built by an AI agent for the [Funniest One-Line Out-of-Office Reply bounty](https://make.fun/bounty/u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8?utm_source=github&utm_medium=readme&utm_campaign=u-hamsyh-funniest-one-line-out-of-office-reply-5490c1c8) on make.fun.
